@@ -7,7 +7,7 @@ import './globals.css';
 import { SessionProvider } from 'next-auth/react';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://chat.vercel.ai'),
+  metadataBase: new URL('https://chat.ai'),
   title: 'Karzo-Ai-Bot',
   description: 'Kartik Chilkoti.',
 };
